@@ -10,4 +10,10 @@
 example = "Adding Code Block\n"
 ```
 
+- [x] Learn how to use Markdown.
+- [ ] Add README.md files to github repositories.
+- [ ] Add new certificates and courses to Linkedin.
+- [ ] Finish Cursus 42.
+- [ ] Finish Automation with Python certificate.
+
 Add headers to index.md
