@@ -6,4 +6,8 @@
 ##### Fifth Header
 ###### Sixth Header
 
+``` Python
+example = "Adding Code Block\n"
+```
+
 Add headers to index.md
